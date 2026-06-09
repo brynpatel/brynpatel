@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brynpatel
-- 👀 I’m interested in Machine Learning and Proceduralism
+- 👀 I’m interested in Proceduralism and Mathematics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my first open source project
 
